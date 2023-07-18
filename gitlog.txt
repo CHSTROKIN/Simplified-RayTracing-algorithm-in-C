@@ -1,0 +1,37 @@
+Unfortunately, having not read through the entire submission section, we did not realize that this was supposed to be in the same gitlab project as Parts I, II, and III. This is the early part of the commit history that occurred in the other project.
+
+commit dbe95f743e00868e8f8017a8b49997f04439e6b1
+Author: Owen Li <owen.li22@imperial.ac.uk>
+Date:   Sat Jun 17 18:38:50 2023 +0100
+
+    Added normal angle calculation.
+
+commit 0dfaaf74b8e50244a8d2d766ff17d93b2f855c04
+Author: Owen Li <owen.li22@imperial.ac.uk>
+Date:   Sat Jun 17 14:53:06 2023 +0100
+
+    Added support for 3D voxel maps, added utility functions to generate textures, fixed FOV
+
+commit c3adbeb754d3728c5ecebe200d92b3f23f916bdb
+Author: Owen Li <owen.li22@imperial.ac.uk>
+Date:   Fri Jun 16 18:52:39 2023 +0100
+
+    Temporarily resolved texture loading issues by storing in inefficient format.
+
+commit ed15fd2459c944d11605735580b547c541ab7c99
+Author: Owen Li <owen.li22@imperial.ac.uk>
+Date:   Fri Jun 16 18:17:45 2023 +0100
+
+    Added SDL and basic texture support.
+
+commit 1c3693c7dbbac5bb5d272f2eaffbe144ac8d68bd
+Author: Owen Li <owen.li22@imperial.ac.uk>
+Date:   Thu Jun 15 23:52:18 2023 +0100
+
+    Basic raycasting implementation test with ascii graphics in terminal.
+
+commit 2edfeba3ae4a0dec3e5f164351fce0479b62241d
+Author: Li, Owen <owen.li22@imperial.ac.uk>
+Date:   Thu Jun 15 17:36:14 2023 +0000
+
+    Initial commit

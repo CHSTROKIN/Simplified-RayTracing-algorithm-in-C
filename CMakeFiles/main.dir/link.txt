@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/graphics.c.o CMakeFiles/main.dir/images.c.o CMakeFiles/main.dir/map.c.o CMakeFiles/main.dir/rays.c.o CMakeFiles/main.dir/vectors.c.o -o main  /usr/lib/x86_64-linux-gnu/libSDL2.so -lm 
