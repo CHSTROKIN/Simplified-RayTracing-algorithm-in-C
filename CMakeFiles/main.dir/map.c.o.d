@@ -1,7 +1,8 @@
 CMakeFiles/main.dir/map.c.o: \
- /home/chsto/Project/public/armv8_11/extension/map.c \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/map.c \
  /usr/include/stdc-predef.h \
- /home/chsto/Project/public/armv8_11/extension/map.h /usr/include/stdio.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/map.h \
+ /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -53,7 +54,7 @@ CMakeFiles/main.dir/map.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
- /home/chsto/Project/public/armv8_11/extension/graphics.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.h \
  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
@@ -61,4 +62,4 @@ CMakeFiles/main.dir/map.c.o: \
  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /home/chsto/Project/public/armv8_11/extension/vectors.h
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.h

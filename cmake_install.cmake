@@ -1,4 +1,4 @@
-# Install script for directory: /home/chsto/Project/public/armv8_11/extension
+# Install script for directory: /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/chsto/Project/public/armv8_11/extension/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

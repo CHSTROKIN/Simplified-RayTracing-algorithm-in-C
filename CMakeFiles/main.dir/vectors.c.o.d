@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/vectors.c.o: \
- /home/chsto/Project/public/armv8_11/extension/vectors.c \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.c \
  /usr/include/stdc-predef.h \
- /home/chsto/Project/public/armv8_11/extension/vectors.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.h \
  /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

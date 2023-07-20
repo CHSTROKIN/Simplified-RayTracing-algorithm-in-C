@@ -1,7 +1,8 @@
 CMakeFiles/main.dir/rays.c.o: \
- /home/chsto/Project/public/armv8_11/extension/rays.c \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/rays.c \
  /usr/include/stdc-predef.h \
- /home/chsto/Project/public/armv8_11/extension/rays.h /usr/include/math.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/rays.h \
+ /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -34,7 +35,7 @@ CMakeFiles/main.dir/rays.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /home/chsto/Project/public/armv8_11/extension/map.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/map.h \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
@@ -61,5 +62,5 @@ CMakeFiles/main.dir/rays.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
- /home/chsto/Project/public/armv8_11/extension/graphics.h \
- /home/chsto/Project/public/armv8_11/extension/vectors.h
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.h

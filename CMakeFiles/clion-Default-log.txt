@@ -1,4 +1,0 @@
-Cannot generate into \\wsl$\Ubuntu\home\chsto\Project\public\armv8_11\extension
-It is already used for project \home\chsto\Project\public\armv8_11\extension
-
-Please either delete it manually or select another generation directory

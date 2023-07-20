@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/chsto/Project/public/armv8_11/extension
+CMAKE_SOURCE_DIR = /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/chsto/Project/public/armv8_11/extension
+CMAKE_BINARY_DIR = /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -72,86 +72,86 @@ include CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/main.c.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/main.c.o: main.c
 CMakeFiles/main.dir/main.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Project/public/armv8_11/extension/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/main.c.o -MF CMakeFiles/main.dir/main.c.o.d -o CMakeFiles/main.dir/main.c.o -c /home/chsto/Project/public/armv8_11/extension/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/main.c.o -MF CMakeFiles/main.dir/main.c.o.d -o CMakeFiles/main.dir/main.c.o -c /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/main.c
 
 CMakeFiles/main.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Project/public/armv8_11/extension/main.c > CMakeFiles/main.dir/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/main.c > CMakeFiles/main.dir/main.c.i
 
 CMakeFiles/main.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Project/public/armv8_11/extension/main.c -o CMakeFiles/main.dir/main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/main.c -o CMakeFiles/main.dir/main.c.s
 
 CMakeFiles/main.dir/graphics.c.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/graphics.c.o: graphics.c
 CMakeFiles/main.dir/graphics.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Project/public/armv8_11/extension/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/graphics.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/graphics.c.o -MF CMakeFiles/main.dir/graphics.c.o.d -o CMakeFiles/main.dir/graphics.c.o -c /home/chsto/Project/public/armv8_11/extension/graphics.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/graphics.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/graphics.c.o -MF CMakeFiles/main.dir/graphics.c.o.d -o CMakeFiles/main.dir/graphics.c.o -c /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.c
 
 CMakeFiles/main.dir/graphics.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/graphics.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Project/public/armv8_11/extension/graphics.c > CMakeFiles/main.dir/graphics.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.c > CMakeFiles/main.dir/graphics.c.i
 
 CMakeFiles/main.dir/graphics.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/graphics.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Project/public/armv8_11/extension/graphics.c -o CMakeFiles/main.dir/graphics.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.c -o CMakeFiles/main.dir/graphics.c.s
 
 CMakeFiles/main.dir/images.c.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/images.c.o: images.c
 CMakeFiles/main.dir/images.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Project/public/armv8_11/extension/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/main.dir/images.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/images.c.o -MF CMakeFiles/main.dir/images.c.o.d -o CMakeFiles/main.dir/images.c.o -c /home/chsto/Project/public/armv8_11/extension/images.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/main.dir/images.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/images.c.o -MF CMakeFiles/main.dir/images.c.o.d -o CMakeFiles/main.dir/images.c.o -c /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/images.c
 
 CMakeFiles/main.dir/images.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/images.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Project/public/armv8_11/extension/images.c > CMakeFiles/main.dir/images.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/images.c > CMakeFiles/main.dir/images.c.i
 
 CMakeFiles/main.dir/images.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/images.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Project/public/armv8_11/extension/images.c -o CMakeFiles/main.dir/images.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/images.c -o CMakeFiles/main.dir/images.c.s
 
 CMakeFiles/main.dir/map.c.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/map.c.o: map.c
 CMakeFiles/main.dir/map.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Project/public/armv8_11/extension/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/main.dir/map.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/map.c.o -MF CMakeFiles/main.dir/map.c.o.d -o CMakeFiles/main.dir/map.c.o -c /home/chsto/Project/public/armv8_11/extension/map.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/main.dir/map.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/map.c.o -MF CMakeFiles/main.dir/map.c.o.d -o CMakeFiles/main.dir/map.c.o -c /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/map.c
 
 CMakeFiles/main.dir/map.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/map.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Project/public/armv8_11/extension/map.c > CMakeFiles/main.dir/map.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/map.c > CMakeFiles/main.dir/map.c.i
 
 CMakeFiles/main.dir/map.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/map.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Project/public/armv8_11/extension/map.c -o CMakeFiles/main.dir/map.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/map.c -o CMakeFiles/main.dir/map.c.s
 
 CMakeFiles/main.dir/rays.c.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/rays.c.o: rays.c
 CMakeFiles/main.dir/rays.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Project/public/armv8_11/extension/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/main.dir/rays.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/rays.c.o -MF CMakeFiles/main.dir/rays.c.o.d -o CMakeFiles/main.dir/rays.c.o -c /home/chsto/Project/public/armv8_11/extension/rays.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/main.dir/rays.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/rays.c.o -MF CMakeFiles/main.dir/rays.c.o.d -o CMakeFiles/main.dir/rays.c.o -c /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/rays.c
 
 CMakeFiles/main.dir/rays.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/rays.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Project/public/armv8_11/extension/rays.c > CMakeFiles/main.dir/rays.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/rays.c > CMakeFiles/main.dir/rays.c.i
 
 CMakeFiles/main.dir/rays.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/rays.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Project/public/armv8_11/extension/rays.c -o CMakeFiles/main.dir/rays.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/rays.c -o CMakeFiles/main.dir/rays.c.s
 
 CMakeFiles/main.dir/vectors.c.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/vectors.c.o: vectors.c
 CMakeFiles/main.dir/vectors.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Project/public/armv8_11/extension/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/main.dir/vectors.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/vectors.c.o -MF CMakeFiles/main.dir/vectors.c.o.d -o CMakeFiles/main.dir/vectors.c.o -c /home/chsto/Project/public/armv8_11/extension/vectors.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/main.dir/vectors.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/vectors.c.o -MF CMakeFiles/main.dir/vectors.c.o.d -o CMakeFiles/main.dir/vectors.c.o -c /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.c
 
 CMakeFiles/main.dir/vectors.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/vectors.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Project/public/armv8_11/extension/vectors.c > CMakeFiles/main.dir/vectors.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.c > CMakeFiles/main.dir/vectors.c.i
 
 CMakeFiles/main.dir/vectors.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/vectors.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Project/public/armv8_11/extension/vectors.c -o CMakeFiles/main.dir/vectors.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.c -o CMakeFiles/main.dir/vectors.c.s
 
 # Object files for target main
 main_OBJECTS = \
@@ -175,7 +175,7 @@ main: CMakeFiles/main.dir/build.make
 main: /usr/lib/x86_64-linux-gnu/libSDL2.so
 main: /usr/lib/x86_64-linux-gnu/libm.so
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/chsto/Project/public/armv8_11/extension/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -187,6 +187,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	cd /home/chsto/Project/public/armv8_11/extension && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/chsto/Project/public/armv8_11/extension /home/chsto/Project/public/armv8_11/extension /home/chsto/Project/public/armv8_11/extension /home/chsto/Project/public/armv8_11/extension /home/chsto/Project/public/armv8_11/extension/CMakeFiles/main.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C- && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C- /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C- /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C- /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C- /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/CMakeFiles/main.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/main.dir/depend
 

@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/images.c.o: \
- /home/chsto/Project/public/armv8_11/extension/images.c \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/images.c \
  /usr/include/stdc-predef.h \
- /home/chsto/Project/public/armv8_11/extension/images.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/images.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -50,7 +50,7 @@ CMakeFiles/main.dir/images.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /home/chsto/Project/public/armv8_11/extension/graphics.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.h \
  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
@@ -58,4 +58,4 @@ CMakeFiles/main.dir/images.c.o: \
  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /home/chsto/Project/public/armv8_11/extension/vectors.h
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.h

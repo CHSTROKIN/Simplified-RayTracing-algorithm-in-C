@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/graphics.c.o: \
- /home/chsto/Project/public/armv8_11/extension/graphics.c \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.c \
  /usr/include/stdc-predef.h \
- /home/chsto/Project/public/armv8_11/extension/graphics.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.h \
  /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -32,4 +32,4 @@ CMakeFiles/main.dir/graphics.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/chsto/Project/public/armv8_11/extension/vectors.h
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.h

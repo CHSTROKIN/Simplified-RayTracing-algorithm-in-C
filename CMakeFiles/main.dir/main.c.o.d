@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/main.c.o: \
- /home/chsto/Project/public/armv8_11/extension/main.c \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/main.c \
  /usr/include/stdc-predef.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -49,7 +49,7 @@ CMakeFiles/main.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
- /home/chsto/Project/public/armv8_11/extension/vectors.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/vectors.h \
  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
@@ -57,13 +57,13 @@ CMakeFiles/main.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /home/chsto/Project/public/armv8_11/extension/rays.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/rays.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /home/chsto/Project/public/armv8_11/extension/map.h \
- /home/chsto/Project/public/armv8_11/extension/graphics.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/map.h \
+ /home/chsto/Personal-Project/Simplified-RayTrasing-algorithm-in-C-/graphics.h \
  /usr/include/SDL2/SDL.h /usr/include/SDL2/SDL_main.h \
  /usr/include/SDL2/SDL_stdinc.h /usr/include/SDL2/SDL_config.h \
  /usr/include/x86_64-linux-gnu/SDL2/_real_SDL_config.h \
